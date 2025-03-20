@@ -1,0 +1,2 @@
+Prefix plugins/RFCV/example/
+Plugin RFCV inputfile parameters.txt outputfile output.png

@@ -1,0 +1,5 @@
+original	CElegans.csv
+filtered	inputfile.csv
+catcol	12
+numrds	15
+fold	10
